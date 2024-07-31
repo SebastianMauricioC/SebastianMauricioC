@@ -11,8 +11,22 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMauricioC&layout=donut)](https://github.com/SebastianMauricioC/github-readme-stats) ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMauricioC&show_icons=true&theme=transparent)
+## 📲 Check my social media out 🔽⬇
+
+</br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scabreratorres/)
+
+</br>
+
+## ⌨ Stats 🔽⬇
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMauricioC&layout=donut)](https://github.com/SebastianMauricioC/github-readme-stats) 
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMauricioC&show_icons=true&theme=transparent)
+
+</br>
