@@ -14,17 +14,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📲 Check my social media out 🔽⬇
+## 📲 Check my social media out
+
+<a href="https://www.linkedin.com/in/scabreratorres/">
+  <img width="40" src="https://i.imgur.com/Z4F1ftW.png" alt="backloggd">
+  <span>LinkedIn</span>
+</a>
+
+<br>
+<br>
+
+<a href="https://letterboxd.com/Mintway/">
+  <img width="40" src="https://i.imgur.com/STTXmdN.png" alt="letterbox">
+  <span>Letterboxd</span>
+</a>
+
+<br>
+<br>
+
+<a href="https://backloggd.com/u/UnmistakableRin/">
+  <img width="40" src="https://i.imgur.com/Pgxoenl.png" alt="backloggd">
+  <span>Backloggd</span>
+</a>
 
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scabreratorres/)
-
-</br>
-
-## ⌨ Stats 🔽⬇
-
-</br>
+## ⌨ Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMauricioC&layout=donut)](https://github.com/SebastianMauricioC/github-readme-stats) 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMauricioC&show_icons=true&theme=transparent)
